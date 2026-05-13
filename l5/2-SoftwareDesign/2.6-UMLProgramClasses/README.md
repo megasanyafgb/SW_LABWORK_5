@@ -2,7 +2,8 @@
 
 #### UML-діаграма програмних класів
 
-![UML Program Classes Diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/laboratory-work-5/2-SoftwareDesign/2.6-UMLProgramClasses/UMLProgramClasses.puml)
+<img width="1176" height="434" alt="UMLProgramClasses" src="https://github.com/user-attachments/assets/a3afdb69-d3fe-47cf-b1e9-b8588512fe96" />
+
 
 #### Опис класів
 
